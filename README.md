@@ -40,7 +40,7 @@ The analysis helps understand patient volume, appointment performance, treatment
 
 "Hospital Operations Overview"
 
-![Hospital Operations Dashboard](Hospital%20Dashboard.png)
+![Hospital Operations Dashboard](./Hospital%2520Dashboard.png)
 
 #Project Objectives
 
